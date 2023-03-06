@@ -1,0 +1,29 @@
+* {margin:0; padding:0;}
+ul, li{ list-style: none; }
+
+.btn {
+  border:1px solid black;
+  background-color: black;
+  color:white;
+  width:80px;
+  height:80px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  cursor: pointer;
+}
+.modalList {
+  text-align: center;
+  background-color: #ddd;
+  cursor: pointer;
+  margin-right:10px;
+  min-width:100px;
+  border-radius: 20px;
+}
+
+/* scroll */
+/* ::-webkit-scrollbar {
+  width:20px;
+} */
