@@ -43,7 +43,7 @@ const App = () => {
   });
   setList(response.data.items)
   }
-  console.log(list)
+  console.log(list);
 
   useEffect(()=>{
     getData()
