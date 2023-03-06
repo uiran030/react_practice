@@ -1,0 +1,2324 @@
+[   
+    {
+        "2022-09-28": [
+            {
+                "days": "169",
+                "work": [
+                    { "lotte_lotteins": "main page redirect url update" },
+                    { "web_admin": "lotte => image list table => delete func => ...ing" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" },
+                    { "api": "lotte api 로직 배포" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-09-28": [
+            {
+                "days": "168",
+                "work": [
+                    { "hk_life": "main page redirect url update" },
+                    { "web_admin": "lotte => image list table => delete func => ...ing" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-09-27": [
+            {
+                "days": "167",
+                "work": [
+                    { "web_admin": "lotte => image list table => delete func => ...ing" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" },
+                    { "api": "lotte api 로직 수정" }
+
+                ]
+            }
+        ]
+    },
+    {
+        "2022-09-26": [
+            {
+                "days": "165",
+                "work": [
+                    { "web_admin": "lotte => image list table => delete func => ...ing" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "api": "lotte api 로직 수정" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-09-23": [
+            {
+                "days": "164",
+                "work": [
+                    { "web_admin": "lotte => image list table => ...ing" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "etc": "hanwhains page layout fix" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-09-22": [
+            {
+                "days": "163",
+                "work": [
+                    { "web_admin": "lotte => image upload => image list table" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-09-21": [
+            {
+                "days": "162",
+                "work": [
+                    { "web_admin": "lotte => s3 image upload => spring boot test" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-09-20": [
+            {
+                "days": "161",
+                "work": [
+                    { "web_admin": "lotte => web admin에서 iamge upload를 위한 aws s3 service 연동 작업중" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-09-19": [
+            {
+                "days": "160",
+                "work": [
+                    { "lotte_lotteins": "main page update, 로직추가사항 회의" },
+                    { "hk_api": "mobile black list check" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-09-16": [
+            {
+                "days": "159",
+                "work": [
+                    { "etc" : "사내 컴퓨터 견적, 개발팀 노트북 견적 제출" },
+                    { "hanwha_hanwha_ins": "개인정보처리법 소스검토" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-09-15": [
+            {
+                "days": "158",
+                "work": [
+                    { "hk_life": "input box css 배포" },
+                    { "hanwha_hanwha_ins": "new_app page update" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-09-14": [
+            {
+                "days": "158",
+                "work": [
+                    { "hanwha_hanwha_ins": "new_app page 제작" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-09-13": [
+            {
+                "days": "157",
+                "work": [
+                    { "manage_potal": "자동차 다이렉트 보험 유입통계 기능 완성" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-09-09": [
+            {
+                "days": "156",
+                "work": [
+                    { "api": "lotte api 요청에따른 수정사항 반영" },
+                    { "lotte_lotteins": "lotte api 요청에따른 수정사항 반영" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-09-08": [
+            {
+                "days": "155",
+                "work": [
+                    { "hk_life": "dental, child page update" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-09-07": [
+            {
+                "days": "154",
+                "work": [
+                    { "hk_life": "child, dental page update" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-09-06": [
+            {
+                "days": "153",
+                "work": [
+                    { "api": "lotte api 요청에따른 수정사항 반영" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-09-05": [
+            {
+                "days": "152",
+                "work": [
+                    { "lotte_lotteins": "cancer page 배포" },
+                    { "hk_life": "easyok 배포" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-09-02": [
+            {
+                "days": "151",
+                "work": [
+                    { "lotte_lotteins": "cancer page image fix" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "etc": ""}
+                ]
+            }
+        ]
+    },
+    {
+        "2022-09-01": [
+            {
+                "days": "150",
+                "work": [
+                    { "lotte_lotteins": "cancer page update" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-08-31": [
+            {
+                "days": "149",
+                "work": [
+                    { "lotte_lotteins": "text upload logic fix" },
+                    { "hk_life": "mobile page db input box css, image change" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-08-30": [
+            {
+                "days": "148",
+                "work": [
+                    { "lotte_lotteins": "text upload logic update" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-08-29": [
+            {
+                "days": "147",
+                "work": [
+                    { "api": "lotte agree_check_value api_send_logic update" },
+                    { "lotte_lotteins": "input name delete" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-08-26": [
+            {
+                "days": "146",
+                "work": [
+                    { "api": "direct auto nstation update" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-08-25": [
+            {
+                "days": "145",
+                "work": [
+                    { "api": "direct auto nstation 매체사 추가 업데이트 진행" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-08-24": [
+            {
+                "days": "144",
+                "work": [
+                    { "mysql_db": "nstation update" },
+                    { "hanwha_hanwha_ins": "자가용 페이지 업데이트" },
+                    { "etc": "유지보수 사이트 전체 점검"}
+                ]
+            }
+        ]
+    },
+    {
+        "2022-08-23": [
+            {
+                "days": "143",
+                "work": [
+                    { "api": "자동차 다이렉트 매체사 추가 api연동 완료" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-08-22": [
+            {
+                "days": "142",
+                "work": [
+                    { "api": "자동차 다이렉트 매체사 추가 api연동 작업중" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-08-19": [
+            {
+                "days": "141",
+                "work": [
+                    { "web_admin": "다이렉트보험 종합통계 페이지 로직 업데이트" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" },
+                    { "etc": "보안솔루션 오류 문제 해결"}
+                ]
+            }
+        ]
+    },
+    {
+        "2022-08-18": [
+            {
+                "days": "140",
+                "work": [
+                    { "web_admin": "흥국생명 종합통계 페이지 기능 업데이트" },
+                    { "svn": "spring_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-08-17": [
+            {
+                "days": "139",
+                "work": [
+                    { "api server": "흥국생명 api 로직변경" },
+                    { "hanwha_hanwha_ins": "건강보험서비스안내페이지 업데이트" },
+                    { "svn": "spring_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-08-16": [
+            {
+                "days": "138",
+                "work": [
+                    { "hanwha_hanwha_ins": "한화 간병일당 페이지 업데이트" },
+                    { "git": "php_source_backup" },
+                    { "svn": "spring_source_backup" },
+                    { "etc": "유지보수 사이트 전체 점검"}
+                ]
+            }
+        ]
+    },
+    {
+        "2022-08-12": [
+            {
+                "days": "137",
+                "work": [
+                    { "api server": "흥국생명 api 전송관련 로직 업데이트" },
+                    { "hanwha_hanwha_ins": "배포 일정 조율 수요일까지 종합보험, 간병보험 배포예정" },
+                    { "svn": "spring_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-08-11": [
+            {
+                "days": "136",
+                "work": [
+                    { "web_admin": "롯데 관리자 텍스트 업로드 기능 개발완료 배포" },
+                    { "git": "php_source_backup" },
+                    { "svn": "spring_source_backup" },
+                    { "etc": "흥국생명 api 전송 로직변경 회의" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-08-11": [
+            {
+                "days": "136",
+                "work": [
+                    { "web_admin": "롯데 관리자 텍스트 업로드 기능 업데이트" },
+                    { "git": "php_source_backup" },
+                    { "svn": "spring_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-08-10": [
+            {
+                "days": "135",
+                "work": [
+                    { "web_admin": "흥국생명 종합통계 게시판 개발완료 배포" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" },
+                    { "git": "php_source_backup" },
+                    { "svn": "spring_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-08-09": [
+            {
+                "days": "134",
+                "work": [
+                    { "web_admin": "흥국생명 종합통계 게시판 개발중" },
+                    { "git": "php_source_backup" },
+                    { "svn": "spring_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-08-08": [
+            {
+                "days": "133",
+                "work": [
+                    { "web_admin": "흥국생명 종합통계 게시판 개발중" },
+                    { "git": "php_source_backup" },
+                    { "svn": "spring_source_backup" },
+                    { "etc": "다해사원 확진으로 재택근무 업무 인수인계" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-08-05": [
+            {
+                "days": "132",
+                "work": [
+                    { "web_admin": "자동차보험 통계게시판 기능개발 업데이트" },
+                    { "git": "php_source_backup" },
+                    { "svn": "spring_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-08-04": [
+            {
+                "days": "131",
+                "work": [
+                    { "web_admin": "자동차보험 통계게시판 기능개발 완료 버그 수정중" },
+                    { "git": "php_source_backup" },
+                    { "svn": "spring_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-08-03": [
+            {
+                "days": "130",
+                "work": [
+                    { "web_admin": "자동차보험 통계게시판 기능추가 개발중" },
+                    { "hanwha_hanwha_ins": "iframe css변경 세부사항 점검" },
+                    { "git": "php_source_backup" },
+                    { "svn": "spring_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-08-02": [
+            {
+                "days": "129",
+                "work": [
+                    { "web_admin": "자동차보험 통계게시판 기능추가 개발중" },
+                    { "hanwha_hanwha_ins": "house page 하단 내용 update" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" },
+                    { "git": "php_source_backup" },
+                    { "svn": "spring_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-08-01": [
+            {
+                "days": "128",
+                "work": [
+                    { "web_admin": "자동차보험 통계게시판 기능추가 개발중" },
+                    { "hanwha_hanwha_ins": "iframe css변경 세부사항 점검" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-07-29": [
+            {
+                "days": "127",
+                "work": [
+                    { "hk_life": "hk_life_한자지원 폰트 수정, 테이블 양식 수정" },
+                    { "lotte_lotteins": "actuar, dementia text 입력로직 수정" },
+                    { "svn": "spring_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-07-28": [
+            {
+                "days": "126",
+                "work": [
+                    { "hanwha_hanwha_ins": "롤링배너_로직_수정" },
+                    { "web_admin": "자동차보험 통계게시판 기능추가_(유효전환값 total 추가)" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-07-27": [
+            {
+                "days": "125",
+                "work": [
+                    { "web_admin": "자동차보험 통계게시판 기능추가_(캘린더 상세기능 추가)" },
+                    { "lotte_lotteins": "text 수정" },
+                    { "svn": "spring_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-07-26": [
+            {
+                "days": "124",
+                "work": [
+                    { "web_admin": "자동차보험_통계게시판_대표님_피드백_추가사항_정리" },
+                    { "svn": "spring_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-07-25": [
+            {
+                "days": "123",
+                "work": [
+                    { "lotte_lotteins": "텍스트 업데이트 기능 수정" },
+                    { "web_admin": "테스트 완료_배포일정 조율" },
+                    { "svn": "spring_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-07-22": [
+            {
+                "days": "122",
+                "work": [
+                    { "hanwha_hanwha_ins": "롤링배너 로직 업데이트" },
+                    { "web_admin": "매체사 유입 기능 완성" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-07-21": [
+            {
+                "days": "121",
+                "work": [
+                    { "web_admin": "매체사 별 유입통계 게시판_기능수정" },
+                    { "svn": "spring_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-07-20": [
+            {
+                "days": "120",
+                "work": [
+                    { "web_admin": "매체사 별 유입통계 게시판 개발 테스트중" },
+                    { "svn": "spring_source_backup" },
+                    { "etc": "흥국생명 db유입관련 회의" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-07-19": [
+            {
+                "days": "119",
+                "work": [
+                    { "hanwha_hanwha_ins": "child_banner_update" },
+                    { "git": "php_source_backup" },
+                    { "etc": "manage_potal_유입통계 게시판 관련 회의" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-07-18": [
+            {
+                "days": "118",
+                "work": [
+                    { "lotte_lotteins": "롯데손해보험_actuar,dementia page 업데이트" },
+                    { "web_admin": "대표님_기능_추가사항_개발중" },
+                    { "svn": "spring_source_backup" },
+                    { "etc": "api_추가사항_logic_uddate" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-07-15": [
+            {
+                "days": "117",
+                "work": [
+                    { "hanwha_hanwha_ins": "pc_mobile_중간배너 롤링기능 업데이트" },
+                    { "git": "php_source_backup" },
+                    { "etc": "에스원 낮은 강도의 정책 적용 테스트중" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-07-14": [
+            {
+                "days": "116",
+                "work": [
+                    { "web_admin": "자동차 다이렉트 블로그외에 바이럴 체크기능 개발" },
+                    { "svn": "spring_source_backup" },
+                    { "etc": "자동차_다이렉트_관련_회의" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-07-13": [
+            {
+                "days": "115",
+                "work": [
+                    { "web_admin": "대표님_기능_추가사항_개발중" },
+                    { "svn": "spring_source_backup" },
+                    { "etc": "자동차_다이렉트_관련_회의" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-07-12": [
+            {
+                "days": "114",
+                "work": [
+                    { "web_admin": "대표님_기능_추가사항_개발중" },
+                    { "svn": "spring_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-07-11": [
+            {
+                "days": "113",
+                "work": [
+                    { "hanwha_hanwha_ins": "롤링배너_추가_로직_업데이트" },
+                    { "svn": "spring_source_backup" },
+                    { "etc": "대표님_자동차보험_모니터링_기능_추가, 엠플랜잇_구로점_전용_계정생성" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-07-08": [
+            {
+                "days": "112",
+                "work": [
+                    { "lotte_lotteins": "전화번호_정규식_업데이트" },
+                    { "git": "php_source_backup" },
+                    { "etc": "api_추가사항_logic_uddate" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-07-07": [
+            {
+                "days": "111",
+                "work": [
+                    { "lotte_lotteins": "345, child, chaeum_page_update" },
+                    { "svn": "spring_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" },
+                    { "etc": "에스원_보안솔루션_에러해결, hanwha_api연동관련_회의" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-07-06": [
+            {
+                "days": "110",
+                "work": [
+                    { "hanwha_hanwha_ins": "급건_보험료계산로직수정" },
+                    { "svn": "spring_source_backup" },
+                    { "api": "carrot 다이렉트 블로그용 api 연동"},
+                    { "etc": "에스원_보안솔루션_에러해결" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-07-05": [
+            {
+                "days": "109",
+                "work": [
+                    { "api": "carrot 다이렉트 블로그용 api 개발"},
+                    { "hanwha_hanwha_ins": "체류배너 수정" },
+                    { "svn": "spring_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-07-04": [
+            {
+                "days": "108",
+                "work": [
+                    { "hanwha_hanwha_ins": "report_page_update" },
+                    { "git": "php_source_backup" },
+                    { "etc": "에스원_보안솔루션_전체배포_테스트" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-07-01": [
+            {
+                "days": "107",
+                "work": [
+                    { "lotte_lotteins": "admin_text_input_test" },
+                    { "hidirect": "android_ver_page_update" },
+                    { "svn": "spring_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-06-30": [
+            {
+                "days": "106",
+                "work": [
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" },
+                    { "svn": "spring_source_backup" },
+                    { "web_admin": "대표님_피드백_트래픽전환관리 페이지_update" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-06-29": [
+            {
+                "days": "105",
+                "work": [
+                    { "제휴": "캐롯_자동차보험관련_로직_기획" },
+                    { "git": "php_source_backup" },
+                    { "etc": "기술스택 향상을 위한 리액트_crud" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-06-28": [
+            {
+                "days": "104",
+                "work": [
+                    { "web_admin": "lotte_refund_table_자동입력_기능_작업완료(적용_테스트)" },
+                    { "svn": "spring_source_backup" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" },
+                    { "etc": "에스원_보안솔루션_셋팅" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-06-27": [
+            {
+                "days": "103",
+                "work": [
+                    { "hanwha_hanwha_ins": "drive, codrive_모바일_코딩본_전달" },
+                    { "git": "php_source_backup, 서버_배포" },
+                    { "etc": "정보보안_서비스_신청서_작성_에스원_전달" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-06-24": [
+            {
+                "days": "102",
+                "work": [
+                    { "hanwha_hanwha_ins": "drive, codrive_page_update, 체류배너_logic_change" },
+                    { "lotte_lotteins": "보험계산완료 css변경" },
+                    { "svn": "spring_source_backup, 서버_배포" },
+                    { "git": "php_source_backup, 서버_배포" },
+                    { "etc": "한화관련_에스원_보안솔루션_도입_기안작성, 조직도작성" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-06-23": [
+            {
+                "days": "101",
+                "work": [
+                    { "lotte_lotteins": "com, mall_driver_page_update" },
+                    { "hanwha_hanwha_ins": "kakao_pc_mobile_popup_fix, driver_banner_chnage" },
+                    { "web_admin": "lotte_refund_table_자동입력_기능_작업중(database)" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" },
+                    { "svn": "spring_source_backup, 서버_배포" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-06-22": [
+            {
+                "days": "100",
+                "work": [
+                    { "hanwha_hanwha_ins": "kakao_pc_mobile, popup_update"},
+                    { "web_admin": "lotte_refund_table_자동입력_기능_작업중(back_end)" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-06-21": [
+            {
+                "days": "99",
+                "work": [
+                    { "web_admin": "lotte_refund_table_자동입력_기능_작업중(html)" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-06-20": [
+            {
+                "days": "98",
+                "work": [
+                    { "web_admin": "lotte_refund_table_자동입력_기능_작업중(script)" },
+                    { "svn": "spring_source_backup" },
+                    { "git": "php_source_backup" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-06-17": [
+            {
+                "days": "97",
+                "work": [
+                    { "hanwha_hanwha_ins": "care_page_update, main_page_update, mobile_page_fix" },
+                    { "mysql_db": "record, record_second, visit_log_table_local_backup" },
+                    { "etc": "한화_보안점검_대비_프린터_보안설정" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-06-16": [
+            {
+                "days": "96",
+                "work": [
+                    { "web_admin": "매체사_실시간_비동기_검색기능_update" },
+                    { "carrot": "캐롯자동차보험_direct_android_page_업데이트" },
+                    { "etc": "퇴사자_컴퓨터_포맷 및 초기화" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-06-15": [
+            {
+                "days": "95",
+                "work": [
+                    { "web_admin": "매체사_실시간_비동기_검색기능_update" },
+                    { "etc": "퇴사자_컴퓨터_포맷 및 초기화" }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-06-14": [
+            {
+                "days": "94",
+                "work": [
+                    {
+                        "lotte_lotteins": "cancer_image_update"
+                    },
+                    {
+                        "hidirect": "android_ver_page_update"
+                    },
+                    {
+                        "web_admin": "트래픽전환_mplanit_매체사상품_구별_app_os구분_로직_update"
+                    },
+                    {
+                        "svn": "spring_source_backup"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-06-13": [
+            {
+                "days": "93",
+                "work": [
+                    {
+                        "lotte_lotteins": "healthci_page_text_image_update"
+                    },
+                    {
+                        "svn": "spring_source_backup"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-06-10": [
+            {
+                "days": "92",
+                "work": [
+                    {
+                        "mhidirect": "ios, android_page_update_url수정_전체기능_점검_fix"
+                    },
+                    {
+                        "svn": "spring_source_backup"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-06-09": [
+            {
+                "days": "91",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "operation_page_배포"
+                    },
+                    {
+                        "lotte_lotteins": "actual, ins-check_page_update_배포, side_sticky_menu_update"
+                    },
+                    {
+                        "svn": "spring_source_backup"
+                    },
+                    {
+                        "etc": "한화_배포전용pc_윈도우_재설치_및_유틸_셋팅"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-06-08": [
+            {
+                "days": "90",
+                "work": [
+                    {
+                        "lotte_lotteins": "adult_page_테스트완료"
+                    },
+                    {
+                        "web_admin": "트래픽_전환_모니터링_로직_적용, lotte_해지환급금_테이블추가_logic_적용"
+                    },
+                    {
+                        "svn": "spring_source_branch_backup"
+                    },
+                    {
+                        "etc": "누리호스팅_한화관련_172서버_화이트리스트요청, 배포전용pc_셋팅준비"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-06-07": [
+            {
+                "days": "89",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "lotte_actual_ins_check_page_update"
+                    },
+                    {
+                        "web_admin": "lotte_text_upload_logic_update_test"
+                    },
+                    {
+                        "mysql_db": "record, record_second, visit_log_table_local_backup"
+                    },
+                    {
+                        "svn": "spring_source_branch_backup"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-06-03": [
+            {
+                "days": "88",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "lotte_text_upload_logic_update, call_banner_logic_update.........."
+                    },
+                    {
+                        "web_admin": "lotte_text_upload_logic_update"
+                    },
+                    {
+                        "svn": "spring_source_branch_backup"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-06-02": [
+            {
+                "days": "87",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "healthci, driver_update"
+                    },
+                    {
+                        "svn": "spring_source_branch_merge"
+                    },
+                    {
+                        "mysql_db": "record, record_second, visit_log_table_local_backup"
+                    },
+                    {
+                        "etc": "lotte_text_upload_logic_update"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-05-31": [
+            {
+                "days": "86",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "report_mobile_new_page_update"
+                    },
+                    {
+                        "git": "php_source_backup"
+                    },
+                    {
+                        "svn": "spring_source_backup"
+                    },
+                    {
+                        "mysql_db": "record, record_second, visit_log_table_local_backup"
+                    },
+                    {
+                        "etc": "현대해상_API개발_기술지원"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-05-30": [
+            {
+                "days": "85",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "report_pc_new_page_update"
+                    },
+                    {
+                        "lotte_lotteins": "adult, drive_page_iamge_정리"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-05-27": [
+            {
+                "days": "84",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "golfplan_update"
+                    },
+                    {
+                        "git": "php_source_backup"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-05-26": [
+            {
+                "days": "83",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "report_page_update(작업중)"
+                    },
+                    {
+                        "mysql_db": "record, record_second, visit_log_table_local_backup"
+                    },
+                    {
+                        "svn": "spring_source_backup"
+                    },
+                    {
+                        "git": "php_source_backup"
+                    },
+                    {
+                        "etc": "source, jar_file_local_backup, 신입사원 php 코드리뷰"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-05-20": [
+            {
+                "days": "82",
+                "work": [
+                    {
+                        "api_server": "api_server_test"
+                    },
+                    {
+                        "svn": "spring_source_backup"
+                    },
+                    {
+                        "etc": "source_local_backup"
+                    },
+                    {
+                        "git": "php_source_backup"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-05-19": [
+            {
+                "days": "81",
+                "work": [
+                    {
+                        "lotte_lotteins": "chaeum_page, adult_page_테스트완료"
+                    },
+                    {
+                        "mysql_db": "record, record_second, visit_log_table_local_backup"
+                    },
+                    {
+                        "svn": "spring_source_backup_배포"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-05-18": [
+            {
+                "days": "80",
+                "work": [
+                    {
+                        "lotte_lotteins": "chaeum_page_update"
+                    },
+                    {
+                        "hicar_direct": "신동혁선임요청_api_logic_관련_문제해결"
+                    },
+                    {
+                        "etc": "security_menual_작성, drm_솔루션_문의, lotte_보안이슈_관련_nurihosting문의"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-05-17": [
+            {
+                "days": "79",
+                "work": [
+                    {
+                        "hk_life": "navbar_fix"
+                    },
+                    {
+                        "mysql_db": "record, record_second, visit_log_table_local_backup"
+                    },
+                    {
+                        "etc": "신입사원 springboot_코드리뷰"
+                    },
+                    {
+                        "svn": "spring_source_backup_배포, branch_backup"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-05-16": [
+            {
+                "days": "78",
+                "work": [
+                    {
+                        "lotte_lotteins": "adult_page_update"
+                    },
+                    {
+                        "etc": "officekeepr_개인정보_암호화"
+                    },
+                    {
+                        "svn": "spring_source_backup"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-05-13": [
+            {
+                "days": "77",
+                "work": [
+                    {
+                        "lotte_lotteins": "hospitalize_fix"
+                    },
+                    {
+                        "etc": "신입사원 springboot_코드리뷰"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-05-12": [
+            {
+                "days": "76",
+                "work": [
+                    {
+                        "lotte_lotteins": "hospitalize, dementia_page_test완료_배포"
+                    },
+                    {
+                        "web_admin": "admin에서_text_입력기능(테스트중)"
+                    },
+                    {
+                        "mysql_db": "mplanit_db_local_backup"
+                    },
+                    {
+                        "svn": "spring_source_backup_배포"
+                    },
+                    {
+                        "etc": "개발연구실_pc_보안솔루션_설치"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-05-11": [
+            {
+                "days": "75",
+                "work": [
+                    {
+                        "lotte_lotteins": "hospitalize, dementia_page_update"
+                    },
+                    {
+                        "web_admin": "admin에서_text_입력기능(테스트중)"
+                    },
+                    {
+                        "mysql_db": "mplanit_db_local_backup"
+                    },
+                    {
+                        "svn": "spring_source_backup"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-05-10": [
+            {
+                "days": "74",
+                "work": [
+                    {
+                        "web_admin": "admin에서_text_입력기능(진행중)"
+                    },
+                    {
+                        "mysql_db": "mplanit_db_local_backup"
+                    },
+                    {
+                        "svn": "spring_source_backup"
+                    },
+                    {
+                        "git": "php_source_backup"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-05-09": [
+            {
+                "days": "73",
+                "work": [
+                    {
+                        "spring": "매체사요청으로_api_source_분석"
+                    },
+                    {
+                        "git": "php_source_backup"
+                    },
+                    {
+                        "svn": "spring_source_backup"
+                    },
+                    {
+                        "etc": "php_source 코드리뷰, 롯데손해보험_배포전용pc_보안솔루션_셋팅 "
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-05-04": [
+            {
+                "days": "72",
+                "work": [
+                    {
+                        "lotte_lotteins": "jump_page_delete, new_page_image_size_fix"
+                    },
+                    {
+                        "mplanit_homepage": "popup_add"
+                    },
+                    {
+                        "mysql_db": "mplanit_db_local_backup(목요일휴무로 미리백업)"
+                    },
+                    {
+                        "svn": "spring_source_back_up, local_backup"
+                    },
+                    {
+                        "git": "서버_배포"
+                    },
+                    {
+                        "etc": "신입사원 springboot_코드리뷰"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-05-03": [
+            {
+                "days": "71",
+                "work": [
+                    {
+                        "lotte_lotteins": "mobile_page_footer_fix"
+                    },
+                    {
+                        "etc": "신입사원 springboot_코드리뷰, dahea_pc_setting(source 공유)"
+                    },
+                    {
+                        "mysql_db": "mplanit_db_local_backup"
+                    },
+                    {
+                        "svn": "spring_source_back_up"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-05-02": [
+            {
+                "days": "70",
+                "work": [
+                    {
+                        "lotte_lotteins": "adult_page_add, css_change"
+                    },
+                    {
+                        "etc": "신입사원 springboot_코드리뷰, dahea_pc_setting"
+                    },
+                    {
+                        "mysql_db": "mplanit_db_local_backup"
+                    },
+                    {
+                        "svn": "spring_source_back_up, local_backup"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-04-29": [
+            {
+                "days": "69",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "main_banner_delete"
+                    },
+                    {
+                        "git": "서버_배포"
+                    },
+                    {
+                        "etc": "신입사원 springboot_코드리뷰, 배포_전용pc_setting"
+                    },
+                    {
+                        "mysql_db": "mplanit_db_local_backup"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-04-28": [
+            {
+                "days": "68",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "operation_pc_mobile_banner_chnage, main_text_change"
+                    },
+                    {
+                        "git": "서버_배포"
+                    },
+                    {
+                        "mysql_db": "record, record_second, visit_log_table_local_backup"
+                    },
+                    {
+                        "etc": "신입사원 springboot_코드리뷰"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-04-27": [
+            {
+                "days": "67",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "main_banner_change, main_text_change"
+                    },
+                    {
+                        "git": "서버_배포"
+                    },
+                    {
+                        "svn": "spring_source_back_up, local_backup"
+                    },
+                    {
+                        "mysql_db": "record, record_second, visit_log_table_local_backup"
+                    },
+                    {
+                        "etc": "신입사원 svn 사용법, spring_source back_up방법 코드리뷰"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-04-26": [
+            {
+                "days": "66",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "drive, codrive_모바일_코딩본_작업"
+                    },
+                    {
+                        "lotte_lotteins": "child_page_update, css_change"
+                    },
+                    {
+                        "mysql_db": "record, record_second, visit_log_table_local_backup"
+                    },
+                    {
+                        "svn": "spring_source_back_up, local_backup, 서버배포"
+                    },
+                    {
+                        "etc": "신입사원 springboot, php 코드리뷰"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-04-25": [
+            {
+                "days": "65",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "maturity_pc_page_text_change"
+                    },
+                    {
+                        "git": "서버_배포"
+                    },
+                    {
+                        "etc": "신입사원 springboot, php 코드리뷰"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-04-22": [
+            {
+                "days": "64",
+                "work": [
+                    {
+                        "lotte_lotteins": "cancer_page_main_banner_change, text_change"
+                    },
+                    {
+                        "git": "서버_배포"
+                    },
+                    {
+                        "mysql_db": "record, record_second, visit_log_table_local_backup"
+                    },
+                    {
+                        "etc": "신입사원 springboot, php 코드리뷰"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-04-21": [
+            {
+                "days": "63",
+                "work": [
+                    {
+                        "lotte_lotteins": "cancer, healthci, easy345_page_update, css_change, text_change, backend_source_update, jquery_logic_fix"
+                    },
+                    {
+                        "git": "서버_배포"
+                    },
+                    {
+                        "mysql_db": "record, record_second, visit_log_table_local_backup"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-04-20": [
+            {
+                "days": "62",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "house_banner_change, css_change, text_change"
+                    },
+                    {
+                        "lotte_lotteins": "lotte_easy345_page_update, esay335_change_live_page, nev_bar_change"
+                    },
+                    {
+                        "git": "서버_배포"
+                    },
+                    {
+                        "mysql_db": "record, record_second, visit_log_table_local_backup"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-04-19": [
+            {
+                "days": "61",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "mobile_good_page_delete, operation_page_image_update, css_change, text_change"
+                    },
+                    {
+                        "lotte_lotteins": "lotte_easy345_page_update, esay335, easy_page_delete"
+                    },
+                    {
+                        "git": "서버_배포"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-04-18": [
+            {
+                "days": "60",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "drive, codrive_page_update(test) css_change, text_change"
+                    },
+                    {
+                        "lotte_lotteins": "lotte_easy335_page_update(test)"
+                    },
+                    {
+                        "git": "git_add"
+                    },
+                    {
+                        "mysql_db": "lotte_db_data_add"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-04-15": [
+            {
+                "days": "59",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "house_page_table_update, cancer_page_update, care_child_page_banner_change, main_banner_change, css_change, text_change"
+                    },
+                    {
+                        "lotte_lotteins": "new_healthci_page update전 logic_check"
+                    },
+                    {
+                        "git": "서버_배포"
+                    },
+                    {
+                        "mysql_db": "record, record_second, visit_log_table_local_backup"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-04-14": [
+            {
+                "days": "58",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "maturity_page_fix, css_change, text_change"
+                    },
+                    {
+                        "lotte_lotteins": "new_healthci_page update전 logic_check"
+                    },
+                    {
+                        "git": "서버_배포"
+                    },
+                    {
+                        "mysql_db": "record, record_second, visit_log_table_local_backup"
+                    },
+                    {
+                        "etc": "신입사원 springboot, php 코드리뷰"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-04-13": [
+            {
+                "days": "57",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "golfplan_page_update, fire_maturity_house모바일코딩본작업, fire_page_fix,main_banner_change, css_change, text_change"
+                    },
+                    {
+                        "svn": "spring_source_back_up, local_backup"
+                    },
+                    {
+                        "git": "서버_배포"
+                    },
+                    {
+                        "etc": "신입사원 springboot, php 코드리뷰"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-04-12": [
+            {
+                "days": "56",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "child_page_fix, house_page_fix, house_모바일코딩본작업, css_change, text_change"
+                    },
+                    {
+                        "lotte_lotteins": "보안이슈 조치사항 관련 업무"
+                    },
+                    {
+                        "svn": "spring_source_back_up, local_backup"
+                    },
+                    {
+                        "git": "서버_배포"
+                    },
+                    {
+                        "etc": "신입사원 springboot, php 코드리뷰"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-04-11": [
+            {
+                "days": "55",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "operation_page_pc_css_change, house, fire_page_update, css_change,text_change"
+                    },
+                    {
+                        "lotte_lotteins": "보안이슈 조치사항 문제 해결 s3_server_image_delete"
+                    },
+                    {
+                        "svn": "spring_source_back_up, local_backup"
+                    },
+                    {
+                        "git": "서버_배포"
+                    },
+                    {
+                        "etc": "신입사원 springboot, php 코드리뷰"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-04-08": [
+            {
+                "days": "54",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "maturity_page_fix, house_page_update, main_banner_change"
+                    },
+                    {
+                        "lotte_lotteins": "cancer_new_page_error_check"
+                    },
+                    {
+                        "svn": "spring_source_back_up, local_backup"
+                    },
+                    {
+                        "git": "서버_배포"
+                    },
+                    {
+                        "etc": "신입사원 notebook_maintenance"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-04-07": [
+            {
+                "days": "53",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "child_page_update, main_banner 순서 변경, css_change"
+                    },
+                    {
+                        "lotte_lotteins": "lotteinsumall_new_cancer_page_연동작업"
+                    },
+                    {
+                        "svn": "spring_source_back_up, local_backup"
+                    },
+                    {
+                        "git": "서버_배포"
+                    },
+                    {
+                        "mysql_db": "lotte_record_table_local_backup"
+                    },
+                    {
+                        "etc": "신입사원 notebook_maintenance"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-04-06": [
+            {
+                "days": "52",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "maturity, operation_mobile_코딩본, pop_banner_update, main_banner_update, css_change"
+                    },
+                    {
+                        "lotte_lotteins": "lotteinsu, lotteinsumall_cancer, child, healthci_page_update"
+                    },
+                    {
+                        "svn": "spring_source_back_up, local_backup"
+                    },
+                    {
+                        "git": "서버_배포"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-04-05": [
+            {
+                "days": "51",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "operation, maturity_page_update, main_slide_banner_update, side_banner_update, css_change"
+                    },
+                    {
+                        "lotte_api_server": "api_test, validation_logic_update"
+                    },
+                    {
+                        "svn": "spring_source_back_up"
+                    },
+                    {
+                        "git": "서버_배포"
+                    },
+                    {
+                        "mysql_db": "lotte_record_table_update"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-04-04": [
+            {
+                "days": "51",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "maturity_page_update"
+                    },
+                    {
+                        "lotte_api_server": "api_test, logic_update"
+                    },
+                    {
+                        "svn": "spring_source_back_up"
+                    },
+                    {
+                        "git": "서버_배포"
+                    },
+                    {
+                        "mysql_db": "record_db_update"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-04-01": [
+            {
+                "days": "50",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "operation_page_update"
+                    },
+                    {
+                        "lotte_api_server": "logic_update"
+                    },
+                    {
+                        "svn": "spring_source_back_up"
+                    },
+                    {
+                        "git": "서버_배포"
+                    },
+                    {
+                        "mysql_db": "record_db_update, backup"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-03-31": [
+            {
+                "days": "49",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "pc_mobile_banner_image_change, cham_page_update"
+                    },
+                    {
+                        "lotte_lotteins": "api_logic_보안문제_해결중, log_분석"
+                    },
+                    {
+                        "svn": "spring_source_back_up"
+                    },
+                    {
+                        "git": "서버_배포"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-03-30": [
+            {
+                "days": "48",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "drive_page_update"
+                    },
+                    {
+                        "lotte_lotteins": "healthci_page_update_error_fix"
+                    },
+                    {
+                        "svn": "spring_source_back_up"
+                    },
+                    {
+                        "git": "서버_배포"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-03-29": [
+            {
+                "days": "47",
+                "work": [
+                    {
+                        "lotte_lotteins": "healthci_page_update"
+                    },
+                    {
+                        "manage_portal": "code_table_add"
+                    },
+                    {
+                        "svn": "spring_source_back_up"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-03-28": [
+            {
+                "days": "46",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "operation_page_update"
+                    },
+                    {
+                        "svn": "spring_source_back_up"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-03-25": [
+            {
+                "days": "45",
+                "work": [
+                    {
+                        "lotte_lotteins": "lotte_calc_error_fix"
+                    },
+                    {
+                        "svn": "spring_source_back_up"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-03-24": [
+            {
+                "days": "44",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "pc_common.tpl, m_common.tpl update"
+                    },
+                    {
+                        "manage_portal": "list_db_page_update"
+                    },
+                    {
+                        "svn": "spring_source_back_up"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-03-23": [
+            {
+                "days": "43",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "drive_pc_mobile_page 랜딩작업_100%_진행, cham_pc_text_update"
+                    },
+                    {
+                        "lotte_lotteins": "page_error_fix"
+                    },
+                    {
+                        "manage_portal": "hk_life_data_tables_library_update"
+                    },
+                    {
+                        "svn": "spring_source_back_up"
+                    },
+                    {
+                        "git": "서버_배포"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-03-22": [
+            {
+                "days": "42",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "drive_pc_mobile_page 랜딩작업_50%_진행"
+                    },
+                    {
+                        "lotte_lotteins": "js_vaild_logic update"
+                    },
+                    {
+                        "svn": "spring_source_back_up"
+                    },
+                    {
+                        "git": "서버_배포"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-03-21": [
+            {
+                "days": "41",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "main_pc_gnb_text_update"
+                    },
+                    {
+                        "lotte_lotteins": "new_main_page, jump_page 연동작업, calc_js_logic_update"
+                    },
+                    {
+                        "svn": "spring_source_back_up"
+                    },
+                    {
+                        "git": "서버_배포"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-03-18": [
+            {
+                "days": "40",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "maturity_banner_change"
+                    },
+                    {
+                        "hk_life": "age_check_logic 수정, 유효성검사 로직 업데이트"
+                    },
+                    {
+                        "manage_portal": "hk_life _data_update"
+                    },
+                    {
+                        "svn": "spring_source_back_up"
+                    },
+                    {
+                        "git": "서버_배포"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-03-17": [
+            {
+                "days": "39",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "main_pc_gnb slide형식으로 change 작업중"
+                    },
+                    {
+                        "hk_life": "code update 배포후 테스트중"
+                    },
+                    {
+                        "manage_portal": "hk_life _data_update"
+                    },
+                    {
+                        "svn": "spring_source_back_up"
+                    },
+                    {
+                        "git": "서버_배포"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-03-16": [
+            {
+                "days": "38",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "main banner_change"
+                    },
+                    {
+                        "hk_life": "보험료계산 로직 수정, 상품 코드 업데이트, 랜딩페이지 추가, js 로직 버그 수정"
+                    },
+                    {
+                        "svn": "spring_source_back_up"
+                    },
+                    {
+                        "git": "서버_배포"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-03-15": [
+            {
+                "days": "37",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "main_banner_text_update, main banner_change, mobile_good -> cancer_banner change"
+                    },
+                    {
+                        "svn": "spring_source_back_up"
+                    },
+                    {
+                        "git": "166_back_up, 서버_배포"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-03-14": [
+            {
+                "days": "36",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "layer_popup_image_change_노출방식변경, GNB 디자인변경"
+                    },
+                    {
+                        "hk_life": "product_code_error_일부수정, product_url_excel정리 수연선임님에게 전달"
+                    },
+                    {
+                        "manage_portal": "hk_life_excel_product_name_change"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-03-11": [
+            {
+                "days": "35",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "new_layer_popup layer update"
+                    },
+                    {
+                        "honor": "top_button, 네브바 a태그 연결, jquery, scroll speed logic"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-03-10": [
+            {
+                "days": "34",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "new_layer_popup layout 구상"
+                    },
+                    {
+                        "honor": "js_setInterval_logic"
+                    },
+                    {
+                        "svn": "spring_source_back_up"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-03-08": [
+            {
+                "days": "33",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "main_plan_banner_change, 대통령선거_atuo_banner작업"
+                    },
+                    {
+                        "lotte_lotteins": "lotte_lotteins pc_m_랜딩페이지 배포"
+                    },
+                    {
+                        "mplanit_homepage": "youtube iframe add"
+                    },
+                    {
+                        "git": "166_back_up, 서버_배포"
+                    },
+                    {
+                        "svn": "spring_source_back_up, 서버_배포"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-03-07": [
+            {
+                "days": "32",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "child_page_image_text_update, (fire, child, maturity, cancer_pc_m_banner_change)"
+                    },
+                    {
+                        "lotte_lotteins": "lotte_lotteins pc_m_랜딩페이지 완성"
+                    },
+                    {
+                        "git": "php_source_back_up, 18시 서버_배포"
+                    },
+                    {
+                        "manage_portal": "hk_life_excel_양식 변경을 위해 spring do, db_change"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-03-04": [
+            {
+                "days": "31",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "hanwha_m_page_여백 축소작업, good_page_image_text_update"
+                    },
+                    {
+                        "lotte_lotteins": "lotte_lotteins pc_m_랜딩페이지 수정"
+                    },
+                    {
+                        "svn": "spring_source_back_up"
+                    },
+                    {
+                        "git": "php_source_back_up, 18시 서버_배포"
+                    },
+                    {
+                        "mplanit_homepage": "mobile_css_change"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "2022-03-03": [
+            {
+                "days": "30",
+                "work": [
+                    {
+                        "hanwha_hanwha_ins": "hanwha_ins_child_pc_m_page_restore, (maturity_m_page_call_div_delete), (main_banner_iframe_url_mapping_issue_fix)"
+                    },
+                    {
+                        "lotte": "lotte_접근성 문제 해결"
+                    },
+                    {
+                        "hk_life": "랜딩페이지 문제 해결"
+                    },
+                    {
+                        "manage_portal": "hk_life_실적통계_db_spring_source_fix"
+                    }
+                ]
+            }
+        ]
+    }
+]

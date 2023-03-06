@@ -1,0 +1,226 @@
+[
+    {
+        "TODAY": "2022-11-23",
+        "DAY":[31,"WED"],
+        "업무내용": [
+            "bot 생성, bot을 통한 메세지 전송 가능 페이지 제작 완료"
+        ]
+    },
+    {
+        "TODAY": "2022-11-22",
+        "DAY":[30,"TUE"],
+        "업무내용": [
+            "bot 생성, bot을 통한 메세지 전송 가능 페이지 제작 중"
+        ]
+    },
+    {
+        "TODAY": "2022-11-21",
+        "DAY":[29,"MON"],
+        "업무내용": [
+            "customer bid, cost page 오류 수정, bot 생성 페이지 제작 시작"
+        ]
+    },
+    {
+        "TODAY": "2022-11-18",
+        "DAY":[28,"FRI"],
+        "업무내용": [
+            "study sql & nodeJS & DOM,BOM"
+        ]
+    },
+    {
+        "TODAY": "2022-11-17",
+        "DAY":[27,"THU"],
+        "업무내용": [
+            "study sql & nodeJS & 언어별 개념"
+        ]
+    },
+    {
+        "TODAY": "2022-11-16",
+        "DAY":[26,"WED"],
+        "업무내용": [
+            "image 전송 후 S3 저장 기능 제작중"
+        ]
+    },
+    {
+        "TODAY": "2022-11-15",
+        "DAY":[25,"TUE"],
+        "업무내용": [
+            "json dynamoDB ,db 연결 bot 제작 완료 / image 전송 후 S3 저장 기능 제작 시작"
+        ]
+    },
+    {
+        "TODAY": "2022-11-14",
+        "DAY":[25,"MON"],
+        "업무내용": [
+            "json dynamoDB ,db 연결 bot 제작 시작"
+        ]
+    },
+    {
+        "TODAY": "2022-11-11",
+        "DAY":[24,"FRI"],
+        "업무내용": [
+            "크롤링 봇 DB 작업 마무리"
+        ]
+    },
+    {
+        "TODAY": "2022-11-10",
+        "DAY":[23,"THU"],
+        "업무내용": [
+            "크롤링 봇 DB 작업 시작"
+        ]
+    },
+    {
+        "TODAY": "2022-11-09",
+        "DAY":[22,"WED"],
+        "업무내용": [
+            "node Axios를 통한 zum page 크롤링, starbucks page 크롤링(버튼 클릭, 검색, 검색된 데이터 추출)"
+        ]
+    },
+    {
+        "TODAY": "2022-11-08",
+        "DAY":[21,"TUE"],
+        "업무내용": [
+            "mplanit 새로운 bot 명령어 추가 (!배우, !트리)"
+        ]
+    },
+    {
+        "TODAY": "2022-11-07",
+        "DAY":[20,"MON"],
+        "업무내용": [
+            "dynamic cost lambda 생성 & db 연결 후 구현, bidList lambda 생성 & db 연결 후 구현, naver api lambda 함수 생성"
+        ]
+    },
+    {
+        "TODAY": "2022-11-04",
+        "DAY":[19,"FRI"],
+        "업무내용": [
+            "cloud9 한화 브렌치 따서 client seq 데이터 뽑아내기 완료, 뽑아낸 데이터 다시 lambda 저장"
+        ]
+    },
+    {
+        "TODAY": "2022-11-03",
+        "DAY":[18,"THU"],
+        "업무내용": [
+            "한화 report 페이지 문구 수정, cloud9->customers-userconsole-webapp->afccd 분석"
+        ]
+    },
+    {
+        "TODAY": "2022-11-02",
+        "DAY":[17,"WED"],
+        "업무내용": [
+            "naver campaign & adgroup 제작 완료, kakao token 발급"
+        ]
+    },
+    {
+        "TODAY": "2022-11-01",
+        "DAY":[16,"TUE"],
+        "업무내용": [
+            "naver campaign & adgroup 제작 중"
+        ]
+    },
+    {
+        "TODAY": "2022-10-31",
+        "DAY":[15,"MON"],
+        "업무내용": [
+            "naver keywordstool api 제작 완료, naver campaign&adgroup 제작 시작"
+        ]
+    },
+    {
+        "TODAY": "2022-10-28",
+        "DAY":[14,"FRI"],
+        "업무내용": [
+            "study about NoSQL & naver works bot 제작 과정 분석, naver keywordstool api 제작 시작"
+        ]
+    },
+    {
+        "TODAY": "2022-10-27",
+        "DAY":[13,"THU"],
+        "업무내용": [
+            "study 한화 tpl, php, aws"
+        ]
+    },
+    {
+        "TODAY": "2022-10-26",
+        "DAY":[12,"WED"],
+        "업무내용": [
+            "오전-log json을 활용한 시각 자료 제작 완료, 오후-search naver works bot token / access token 발급 불가하여 kakao로 제작해보기"
+        ]
+    },
+    {
+        "TODAY": "2022-10-25",
+        "DAY":[11,"TUE"],
+        "업무내용": [
+            "오전-log json을 활용한 시각 자료 제작중"
+        ]
+    },
+    {
+        "TODAY": "2022-10-24",
+        "DAY":[10,"MON"],
+        "업무내용": [
+            "naver search api 연동, log json을 활용한 시각 자료 제작 시작"
+        ]
+    },
+    {
+        "TODAY": "2022-10-21",
+        "DAY":[9,"FRI"],
+        "업무내용": [
+            "한화 신규 랜딩페이지 제작 보조"
+        ]
+    },
+    {
+        "TODAY": "2022-10-20",
+        "DAY":[8,"THU"],
+        "업무내용": [
+            "study aws"
+        ]
+    },
+    {
+        "TODAY": "2022-10-19",
+        "DAY":[7,"WED"],
+        "업무내용": [
+            "한화 심의 수정, 주택화재보험 이미지 변경 / 배포 보조"
+        ]
+    },
+    {
+        "TODAY": "2022-10-18",
+        "DAY":[6,"TUE"],
+        "업무내용": [
+            "한화 배너 수정 보조"
+        ]
+    },
+    {
+        "TODAY": "2022-10-17",
+        "DAY":[5,"MON"],
+        "업무내용": [
+            "search and study - aws ec2, s3, rds"
+        ]
+    },
+    {
+        "TODAY": "2022-10-14",
+        "DAY":[4,"FRI"],
+        "업무내용": [
+            "아너스타 홈페이지 js 구현"
+        ]
+    },
+    {
+        "TODAY": "2022-10-13",
+        "DAY":[3,"THU"],
+        "업무내용": [
+            "html, css, js를 이용하여 아너스타 홈페이지 구현하기"
+        ]
+    },
+    {
+        "TODAY": "2022-10-12",
+        "DAY":[2,"WED"],
+        "업무내용": [
+            "wampserver 오류로 인해 컴퓨터 초기화 후 필수 프로그램 재설치, search gitBash 명령어"
+        ]
+    },
+    {
+        "TODAY": "2022-10-11",
+        "DAY":[1,"TUE"],
+        "업무내용": [
+            "기본 컴퓨터 설치 및 셋팅, git bash install and search"
+        ]
+    }
+]
